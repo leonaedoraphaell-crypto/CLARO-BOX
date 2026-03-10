@@ -1,0 +1,5 @@
+{
+  "name": "Stream+ Control",
+  "description": "Sistema de controle de equipamentos com relatórios, backup e interface moderna.",
+  "requestFramePermissions": ["camera"]
+}
